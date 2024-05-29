@@ -1,0 +1,16 @@
+HTML (index.html)
+The HTML file includes a form for adding new blog posts and a section to display the posts.
+The form contains input fields for the post title and content.
+Added a <nav> element inside the <header> with links to "Home" and "Create Post".
+Added a logo with the text "blog.com".
+Added a new section with the ID "home" for a welcome message.
+
+
+
+CSS (style.css)
+The CSS file styles the website, including the layout, form elements, and blog posts.
+JavaScript (script.js)
+
+The JavaScript file handles the form submission event.
+It retrieves the input values, creates a new post element, and appends it to the post list.
+Finally, it resets the form fields.
